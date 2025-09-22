@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<products>
+<item_0>
+<id>1</id>
+<name>Laptop</name>
+<price>15000000</price>
+<category>Electronics</category>
+</item_0>
+<item_1>
+<id>2</id>
+<name>Book</name>
+<price>50000</price>
+<category>Education</category>
+</item_1>
+</products>
+</root>

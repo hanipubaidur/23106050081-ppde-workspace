@@ -1,0 +1,5 @@
+{
+  "format": "XML",
+  "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<library>\n  <book id=\"1\">\n    <title>Python Programming</title>\n    <author>John Smith</author>\n    <year>2023</year>\n  </book>\n  <book id=\"2\">\n    <title>Web Development</title>\n    <author>Jane Doe</author>\n    <year>2022</year>\n  </book>\n</library>",
+  "converted_at": "2025-09-22T09:06:29.374199"
+}
